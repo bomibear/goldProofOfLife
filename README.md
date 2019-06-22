@@ -1,0 +1,1 @@
+This application makes a nugget appear and disappear at a constant interval using a canvas element and the setTimeout function.
